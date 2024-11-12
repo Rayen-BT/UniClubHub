@@ -1,22 +1,6 @@
 # University Club Hub
 University Club Hub is a platform designed to connect university students with clubs that match their interests. This project helps clubs promote themselves, manage applications, and engage with students more efficiently. The platform also allows students to browse clubs, apply to join, and receive updates on their applications.
 
-project_root/
-├── students/
-│   ├── dashboard.html
-│   ├── profile.html
-│   └── other_student_files.js
-├── club_admins/
-│   ├── admin_dashboard.html
-│   ├── club_management.html
-│   └── other_admin_files.js
-├── shared/
-│   ├── styles.css
-│   ├── main.js
-│   └── other_shared_files
-├── index.html
-└── other_core_files
-
 Table of Contents
 Project Overview
 Features
