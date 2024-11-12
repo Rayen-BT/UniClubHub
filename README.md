@@ -35,7 +35,7 @@ Club Admin Dashboard: Provides tools for updating the club profile, reviewing ap
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
-Backend: TBD (Node.js, Express, etc., based on your preference)
-Database: TBD (e.g., MongoDB, PostgreSQL)
+Backend: TBD (...)
+Database: TBD (...)
 Version Control: Git/GitHub
 https://www.figma.com/board/hF6zz8KUndVCl4O3tieg8u/University-Club-Hub---Mind-map?t=uc0BLZQKQq1BtGdU-1
